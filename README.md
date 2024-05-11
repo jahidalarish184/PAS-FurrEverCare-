@@ -12,8 +12,13 @@ cd furr-ever-care
 
 
 3. **Install Dependencies:**
-pip install -r requirements.txt
-This will install Django, Pillow, and any other dependencies required by the project.
+
+Django==3.2.12
+Pillow==8.4.0
+
+(if there were any requirements.txt file, then
+"pip install -r requirements.txt"
+This will install dependencies required by the project.)
 
 4. **Database Setup:**
 - Ensure you have PostgreSQL installed and running. You can download it from [here](https://www.postgresql.org/download/).
