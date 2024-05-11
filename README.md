@@ -13,7 +13,7 @@ cd furr-ever-care
 
 3. **Install Dependencies:**
 
-Django==3.2.12
+Django==3.2.12  ,
 Pillow==8.4.0
 
 (if there were any requirements.txt file, then
